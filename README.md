@@ -37,6 +37,12 @@ Instead of just saying "the EHR system is down," CIPHER-FAIR tells you exactly h
 
 ---
 
+## 📊 Example Output
+
+https://Screenshot.png/
+
+---
+
 ## 📂 Installation & Usage
 
 **1. Clone the repository:**
